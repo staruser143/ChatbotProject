@@ -1,0 +1,5 @@
+Project Nebula Guidelines:
+1. The emergency server room code is 9982.
+2. John Doe is the lead manager for this project.
+3. Employees are allowed to work from home on Fridays.
+4. The client's favorite coffee order is an iced oat milk latte.
